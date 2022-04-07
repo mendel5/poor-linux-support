@@ -1,6 +1,8 @@
 # poor-linux-support
 Overview of companies whose products have poor linux support
 
+Currently this repo is mainly about networking hardware, e.g. Gigabit LAN adapters, WiFi chipsets.
+
 ## Poor Linux support
 - Nvidia
 - Realtek

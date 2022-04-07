@@ -8,6 +8,7 @@ Overview of companies whose products have poor linux support
 ## Need to verify
 - Qualcomm (including Atheros)
 - Broadcom
+- Marvell
 
 ## Good Linux support
 - Intel

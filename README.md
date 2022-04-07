@@ -19,3 +19,4 @@ Currently this repo is mainly about networking hardware, e.g. Gigabit LAN adapte
 
 ## Links
 - Related to https://github.com/mendel5/linux-wifi
+- https://itvision.altervista.org/why.linux.is.not.ready.for.the.desktop.current.html

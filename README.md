@@ -6,13 +6,13 @@ Overview of companies whose products have poor linux support
 - Realtek
 
 ## Need to verify
-- Qualcomm
+- Qualcomm (including Atheros)
 - Broadcom
 
 ## Good Linux support
 - Intel
 - AMD
-- Mediatek (incl. Ralink)
+- Mediatek (including Ralink)
 
 ## Links
 - Related to https://github.com/mendel5/linux-wifi

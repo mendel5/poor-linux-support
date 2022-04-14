@@ -7,15 +7,15 @@ Currently this repo is mainly about networking hardware, e.g. Gigabit LAN adapte
 - Nvidia
 - Realtek
 
-## Need to verify
-- Qualcomm (including Atheros)
-- Broadcom
-- Marvell
-
 ## Good Linux support
 - Intel
 - AMD
 - Mediatek (including Ralink)
+
+## Need to verify
+- Qualcomm (including Atheros)
+- Broadcom
+- Marvell
 
 ## Links
 - Related to https://github.com/mendel5/linux-wifi

@@ -11,6 +11,7 @@ Currently this repo is mainly about networking hardware, e.g. Gigabit LAN adapte
 - Intel
 - AMD
 - Mediatek (including Ralink)
+- Lenovo Thinkpad
 
 ## Need to verify
 - Qualcomm (including Atheros)
